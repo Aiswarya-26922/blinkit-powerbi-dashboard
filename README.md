@@ -17,8 +17,11 @@ Support business decisions using interactive dashboards
 **Tools & Technologies**
 
 Microsoft Power BI
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Microsoft Excel
 
 
