@@ -77,9 +77,17 @@ Supermarket Type 1 contributed the largest share of revenue.
 Medium and Small outlets accounted for the majority of sales.
 Low Fat and Regular products dominated customer purchases.
 
+
 **Dashboard Preview**
 <img width="1322" height="737" alt="Screenshot 2026-07-05 213246" src="https://github.com/user-attachments/assets/59f9d1c6-c264-4583-9110-007bdfa5b403" />
 <img width="1318" height="742" alt="Screenshot 2026-07-05 213311" src="https://github.com/user-attachments/assets/200f3608-ff2c-4bd1-8996-bf1831521917" />
+
+**Project Files**
+
+- Blinkit_PowerBI_Dashboard.pbix – Power BI dashboard
+- Blinkit_Project_Presentation.pdf – Project documentation
+- Blinkit_Grocery_Dataset.xlsx – Source dataset
+- Dashboard screenshots – Preview of the dashboard pages
 
 **Skills Demonstrated**
 
